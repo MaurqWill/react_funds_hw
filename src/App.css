@@ -1,0 +1,12 @@
+
+.gallery {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.logo {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
